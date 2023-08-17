@@ -1,6 +1,6 @@
 # Nexalsphere: Pioneering Open-Source Communication Solutions
 
-![Nexalsphere Logo](path-to-logo-image.png)
+
 
 Welcome to **Nexalsphere**! We are at the forefront of evolving digital communication, transforming the way businesses and individuals connect, collaborate, and commune. As passionate advocates for open-source development, we combine collective innovation with our dedication to creating tools that prioritize accessibility and usability.
 
